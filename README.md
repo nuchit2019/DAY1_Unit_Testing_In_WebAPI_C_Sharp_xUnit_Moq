@@ -13,7 +13,8 @@
 * Dapper
 * Microsoft.Data.SqlClient
 
-* ![image](https://github.com/user-attachments/assets/eeb8ffc6-fece-49cc-aa8a-411ce2f7afaa)
+![image](https://github.com/user-attachments/assets/c7db667c-e685-40be-a447-e8002e151256)
+
 
  
 ## 3. Data Layer (Dapper):
