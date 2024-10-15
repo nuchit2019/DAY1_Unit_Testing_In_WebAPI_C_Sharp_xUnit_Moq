@@ -1,6 +1,5 @@
-# DAY1_Unit_Testing_In_WebAPI_C_Sharp_xUnit_Moq
-DAY1 Unit Testing In WebAPI C# xUnit Moq
-#
+#  DAY1: Unit Testing In WebAPI C# xUnit Moq
+ 
 # Day 1: Introduction and Create Project
 ![image](https://github.com/user-attachments/assets/a8f4ce6e-74cf-4fab-a73d-39428ac8b2d6)
 
